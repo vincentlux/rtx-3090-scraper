@@ -11,3 +11,7 @@
 ```
 npm run start
 ```
+
+
+
+Modified based on https://github.com/waveling/rtx3080-scraper
