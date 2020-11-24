@@ -1,4 +1,4 @@
-# rtx3080-scraper
+# rtx-3090-scraper
 
 1. Set env variable
     * create a `.env` file
